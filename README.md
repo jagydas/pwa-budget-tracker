@@ -5,7 +5,10 @@ Budget Tracker is a progressive web application that allows users to track their
 
 # Installation
 
-To install the required dependencies, run npm install
+To install the required dependencies, 
+
+run npm install
+
 then npm start
 
 # Deployed Heroku app
