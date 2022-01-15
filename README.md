@@ -9,4 +9,8 @@ To install the required dependencies, run npm install
 then npm start
 
 # Deployed Heroku app
+https://quiet-castle-22919.herokuapp.com/
+
+# Video walk-through
+
 
